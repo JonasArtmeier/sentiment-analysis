@@ -1,0 +1,12 @@
+{
+  "name": "sentiment-analysis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JonasArtmeier/sentiment-analysis.git",
+  "author": "Jonas Artmeier <jonas-artmeier@web.de>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "request": "^2.88.2"
+  }
+}
