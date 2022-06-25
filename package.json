@@ -9,7 +9,7 @@
     "ajax": "^0.0.4",
     "cheerio": "^1.0.0-rc.3",
     "got": "^11.1.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "request": "^2.88.2"
   }
 }
